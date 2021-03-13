@@ -1,0 +1,16 @@
+C:\Users\Juliana\OneDrive\Área de Trabalho\Juliana\FATEC\Algoritmos\exercicios\exercicio7\bin\Debug\net5.0\exercicio7.exe
+C:\Users\Juliana\OneDrive\Área de Trabalho\Juliana\FATEC\Algoritmos\exercicios\exercicio7\bin\Debug\net5.0\exercicio7.deps.json
+C:\Users\Juliana\OneDrive\Área de Trabalho\Juliana\FATEC\Algoritmos\exercicios\exercicio7\bin\Debug\net5.0\exercicio7.runtimeconfig.json
+C:\Users\Juliana\OneDrive\Área de Trabalho\Juliana\FATEC\Algoritmos\exercicios\exercicio7\bin\Debug\net5.0\exercicio7.runtimeconfig.dev.json
+C:\Users\Juliana\OneDrive\Área de Trabalho\Juliana\FATEC\Algoritmos\exercicios\exercicio7\bin\Debug\net5.0\exercicio7.dll
+C:\Users\Juliana\OneDrive\Área de Trabalho\Juliana\FATEC\Algoritmos\exercicios\exercicio7\bin\Debug\net5.0\ref\exercicio7.dll
+C:\Users\Juliana\OneDrive\Área de Trabalho\Juliana\FATEC\Algoritmos\exercicios\exercicio7\bin\Debug\net5.0\exercicio7.pdb
+C:\Users\Juliana\OneDrive\Área de Trabalho\Juliana\FATEC\Algoritmos\exercicios\exercicio7\obj\Debug\net5.0\exercicio7.csprojAssemblyReference.cache
+C:\Users\Juliana\OneDrive\Área de Trabalho\Juliana\FATEC\Algoritmos\exercicios\exercicio7\obj\Debug\net5.0\exercicio7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juliana\OneDrive\Área de Trabalho\Juliana\FATEC\Algoritmos\exercicios\exercicio7\obj\Debug\net5.0\exercicio7.AssemblyInfoInputs.cache
+C:\Users\Juliana\OneDrive\Área de Trabalho\Juliana\FATEC\Algoritmos\exercicios\exercicio7\obj\Debug\net5.0\exercicio7.AssemblyInfo.cs
+C:\Users\Juliana\OneDrive\Área de Trabalho\Juliana\FATEC\Algoritmos\exercicios\exercicio7\obj\Debug\net5.0\exercicio7.csproj.CoreCompileInputs.cache
+C:\Users\Juliana\OneDrive\Área de Trabalho\Juliana\FATEC\Algoritmos\exercicios\exercicio7\obj\Debug\net5.0\exercicio7.dll
+C:\Users\Juliana\OneDrive\Área de Trabalho\Juliana\FATEC\Algoritmos\exercicios\exercicio7\obj\Debug\net5.0\ref\exercicio7.dll
+C:\Users\Juliana\OneDrive\Área de Trabalho\Juliana\FATEC\Algoritmos\exercicios\exercicio7\obj\Debug\net5.0\exercicio7.pdb
+C:\Users\Juliana\OneDrive\Área de Trabalho\Juliana\FATEC\Algoritmos\exercicios\exercicio7\obj\Debug\net5.0\exercicio7.genruntimeconfig.cache

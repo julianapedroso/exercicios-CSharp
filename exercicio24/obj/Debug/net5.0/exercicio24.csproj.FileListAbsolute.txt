@@ -1,0 +1,16 @@
+C:\Users\Juliana\OneDrive\Área de Trabalho\Juliana\FATEC\Algoritmos\exercicios\exercicio24\bin\Debug\net5.0\exercicio24.exe
+C:\Users\Juliana\OneDrive\Área de Trabalho\Juliana\FATEC\Algoritmos\exercicios\exercicio24\bin\Debug\net5.0\exercicio24.deps.json
+C:\Users\Juliana\OneDrive\Área de Trabalho\Juliana\FATEC\Algoritmos\exercicios\exercicio24\bin\Debug\net5.0\exercicio24.runtimeconfig.json
+C:\Users\Juliana\OneDrive\Área de Trabalho\Juliana\FATEC\Algoritmos\exercicios\exercicio24\bin\Debug\net5.0\exercicio24.runtimeconfig.dev.json
+C:\Users\Juliana\OneDrive\Área de Trabalho\Juliana\FATEC\Algoritmos\exercicios\exercicio24\bin\Debug\net5.0\exercicio24.dll
+C:\Users\Juliana\OneDrive\Área de Trabalho\Juliana\FATEC\Algoritmos\exercicios\exercicio24\bin\Debug\net5.0\ref\exercicio24.dll
+C:\Users\Juliana\OneDrive\Área de Trabalho\Juliana\FATEC\Algoritmos\exercicios\exercicio24\bin\Debug\net5.0\exercicio24.pdb
+C:\Users\Juliana\OneDrive\Área de Trabalho\Juliana\FATEC\Algoritmos\exercicios\exercicio24\obj\Debug\net5.0\exercicio24.csprojAssemblyReference.cache
+C:\Users\Juliana\OneDrive\Área de Trabalho\Juliana\FATEC\Algoritmos\exercicios\exercicio24\obj\Debug\net5.0\exercicio24.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juliana\OneDrive\Área de Trabalho\Juliana\FATEC\Algoritmos\exercicios\exercicio24\obj\Debug\net5.0\exercicio24.AssemblyInfoInputs.cache
+C:\Users\Juliana\OneDrive\Área de Trabalho\Juliana\FATEC\Algoritmos\exercicios\exercicio24\obj\Debug\net5.0\exercicio24.AssemblyInfo.cs
+C:\Users\Juliana\OneDrive\Área de Trabalho\Juliana\FATEC\Algoritmos\exercicios\exercicio24\obj\Debug\net5.0\exercicio24.csproj.CoreCompileInputs.cache
+C:\Users\Juliana\OneDrive\Área de Trabalho\Juliana\FATEC\Algoritmos\exercicios\exercicio24\obj\Debug\net5.0\exercicio24.dll
+C:\Users\Juliana\OneDrive\Área de Trabalho\Juliana\FATEC\Algoritmos\exercicios\exercicio24\obj\Debug\net5.0\ref\exercicio24.dll
+C:\Users\Juliana\OneDrive\Área de Trabalho\Juliana\FATEC\Algoritmos\exercicios\exercicio24\obj\Debug\net5.0\exercicio24.pdb
+C:\Users\Juliana\OneDrive\Área de Trabalho\Juliana\FATEC\Algoritmos\exercicios\exercicio24\obj\Debug\net5.0\exercicio24.genruntimeconfig.cache
