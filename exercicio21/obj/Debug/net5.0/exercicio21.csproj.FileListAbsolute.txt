@@ -1,0 +1,16 @@
+C:\Users\Juliana\OneDrive\Área de Trabalho\Juliana\FATEC\Algoritmos\exercicios\exercicio21\bin\Debug\net5.0\exercicio21.exe
+C:\Users\Juliana\OneDrive\Área de Trabalho\Juliana\FATEC\Algoritmos\exercicios\exercicio21\bin\Debug\net5.0\exercicio21.deps.json
+C:\Users\Juliana\OneDrive\Área de Trabalho\Juliana\FATEC\Algoritmos\exercicios\exercicio21\bin\Debug\net5.0\exercicio21.runtimeconfig.json
+C:\Users\Juliana\OneDrive\Área de Trabalho\Juliana\FATEC\Algoritmos\exercicios\exercicio21\bin\Debug\net5.0\exercicio21.runtimeconfig.dev.json
+C:\Users\Juliana\OneDrive\Área de Trabalho\Juliana\FATEC\Algoritmos\exercicios\exercicio21\bin\Debug\net5.0\exercicio21.dll
+C:\Users\Juliana\OneDrive\Área de Trabalho\Juliana\FATEC\Algoritmos\exercicios\exercicio21\bin\Debug\net5.0\ref\exercicio21.dll
+C:\Users\Juliana\OneDrive\Área de Trabalho\Juliana\FATEC\Algoritmos\exercicios\exercicio21\bin\Debug\net5.0\exercicio21.pdb
+C:\Users\Juliana\OneDrive\Área de Trabalho\Juliana\FATEC\Algoritmos\exercicios\exercicio21\obj\Debug\net5.0\exercicio21.csprojAssemblyReference.cache
+C:\Users\Juliana\OneDrive\Área de Trabalho\Juliana\FATEC\Algoritmos\exercicios\exercicio21\obj\Debug\net5.0\exercicio21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juliana\OneDrive\Área de Trabalho\Juliana\FATEC\Algoritmos\exercicios\exercicio21\obj\Debug\net5.0\exercicio21.AssemblyInfoInputs.cache
+C:\Users\Juliana\OneDrive\Área de Trabalho\Juliana\FATEC\Algoritmos\exercicios\exercicio21\obj\Debug\net5.0\exercicio21.AssemblyInfo.cs
+C:\Users\Juliana\OneDrive\Área de Trabalho\Juliana\FATEC\Algoritmos\exercicios\exercicio21\obj\Debug\net5.0\exercicio21.csproj.CoreCompileInputs.cache
+C:\Users\Juliana\OneDrive\Área de Trabalho\Juliana\FATEC\Algoritmos\exercicios\exercicio21\obj\Debug\net5.0\exercicio21.dll
+C:\Users\Juliana\OneDrive\Área de Trabalho\Juliana\FATEC\Algoritmos\exercicios\exercicio21\obj\Debug\net5.0\ref\exercicio21.dll
+C:\Users\Juliana\OneDrive\Área de Trabalho\Juliana\FATEC\Algoritmos\exercicios\exercicio21\obj\Debug\net5.0\exercicio21.pdb
+C:\Users\Juliana\OneDrive\Área de Trabalho\Juliana\FATEC\Algoritmos\exercicios\exercicio21\obj\Debug\net5.0\exercicio21.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\Juliana\OneDrive\Área de Trabalho\Juliana\FATEC\Algoritmos\exercicios\exercicio14\bin\Debug\net5.0\exercicio14.exe
+C:\Users\Juliana\OneDrive\Área de Trabalho\Juliana\FATEC\Algoritmos\exercicios\exercicio14\bin\Debug\net5.0\exercicio14.deps.json
+C:\Users\Juliana\OneDrive\Área de Trabalho\Juliana\FATEC\Algoritmos\exercicios\exercicio14\bin\Debug\net5.0\exercicio14.runtimeconfig.json
+C:\Users\Juliana\OneDrive\Área de Trabalho\Juliana\FATEC\Algoritmos\exercicios\exercicio14\bin\Debug\net5.0\exercicio14.runtimeconfig.dev.json
+C:\Users\Juliana\OneDrive\Área de Trabalho\Juliana\FATEC\Algoritmos\exercicios\exercicio14\bin\Debug\net5.0\exercicio14.dll
+C:\Users\Juliana\OneDrive\Área de Trabalho\Juliana\FATEC\Algoritmos\exercicios\exercicio14\bin\Debug\net5.0\ref\exercicio14.dll
+C:\Users\Juliana\OneDrive\Área de Trabalho\Juliana\FATEC\Algoritmos\exercicios\exercicio14\bin\Debug\net5.0\exercicio14.pdb
+C:\Users\Juliana\OneDrive\Área de Trabalho\Juliana\FATEC\Algoritmos\exercicios\exercicio14\obj\Debug\net5.0\exercicio14.csprojAssemblyReference.cache
+C:\Users\Juliana\OneDrive\Área de Trabalho\Juliana\FATEC\Algoritmos\exercicios\exercicio14\obj\Debug\net5.0\exercicio14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juliana\OneDrive\Área de Trabalho\Juliana\FATEC\Algoritmos\exercicios\exercicio14\obj\Debug\net5.0\exercicio14.AssemblyInfoInputs.cache
+C:\Users\Juliana\OneDrive\Área de Trabalho\Juliana\FATEC\Algoritmos\exercicios\exercicio14\obj\Debug\net5.0\exercicio14.AssemblyInfo.cs
+C:\Users\Juliana\OneDrive\Área de Trabalho\Juliana\FATEC\Algoritmos\exercicios\exercicio14\obj\Debug\net5.0\exercicio14.csproj.CoreCompileInputs.cache
+C:\Users\Juliana\OneDrive\Área de Trabalho\Juliana\FATEC\Algoritmos\exercicios\exercicio14\obj\Debug\net5.0\exercicio14.dll
+C:\Users\Juliana\OneDrive\Área de Trabalho\Juliana\FATEC\Algoritmos\exercicios\exercicio14\obj\Debug\net5.0\ref\exercicio14.dll
+C:\Users\Juliana\OneDrive\Área de Trabalho\Juliana\FATEC\Algoritmos\exercicios\exercicio14\obj\Debug\net5.0\exercicio14.pdb
+C:\Users\Juliana\OneDrive\Área de Trabalho\Juliana\FATEC\Algoritmos\exercicios\exercicio14\obj\Debug\net5.0\exercicio14.genruntimeconfig.cache
