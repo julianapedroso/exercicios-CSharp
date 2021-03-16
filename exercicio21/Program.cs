@@ -17,7 +17,8 @@ namespace exercicio21
 
             double basePrisma = valorDigitadoPrismaBase;
             double alturaPrisma = valorDigitadoPrismaAltura;
-            double volumePrisma = basePrisma * alturaPrisma;
+            double areaBasePrisma = (basePrisma * alturaPrisma) / 2;
+            double volumePrisma = areaBasePrisma * alturaPrisma;
 
             Console.WriteLine($"O valor digitado para a base do prisma foi: {valorDigitadoPrismaBase}, para a altura foi: {valorDigitadoPrismaAltura} e seu volume é: {volumePrisma}");
 
