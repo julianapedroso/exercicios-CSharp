@@ -11,3 +11,5 @@ Resolução de exercícios de introdução ao C# propostos na disciplina de Algo
     - Raiz Cúbica
     - Constante PI
 - Área e volume de figuras geométricas
+- Conversão de temperaturas
+- Conversão de velocidades
