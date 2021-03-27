@@ -1,0 +1,16 @@
+C:\Users\Juliana\OneDrive\Área de Trabalho\Juliana\FATEC\Algoritmos\lista-exercicios-C#\exerciciosCSharp\exercicio28\bin\Debug\net5.0\exercicio28.exe
+C:\Users\Juliana\OneDrive\Área de Trabalho\Juliana\FATEC\Algoritmos\lista-exercicios-C#\exerciciosCSharp\exercicio28\bin\Debug\net5.0\exercicio28.deps.json
+C:\Users\Juliana\OneDrive\Área de Trabalho\Juliana\FATEC\Algoritmos\lista-exercicios-C#\exerciciosCSharp\exercicio28\bin\Debug\net5.0\exercicio28.runtimeconfig.json
+C:\Users\Juliana\OneDrive\Área de Trabalho\Juliana\FATEC\Algoritmos\lista-exercicios-C#\exerciciosCSharp\exercicio28\bin\Debug\net5.0\exercicio28.runtimeconfig.dev.json
+C:\Users\Juliana\OneDrive\Área de Trabalho\Juliana\FATEC\Algoritmos\lista-exercicios-C#\exerciciosCSharp\exercicio28\bin\Debug\net5.0\exercicio28.dll
+C:\Users\Juliana\OneDrive\Área de Trabalho\Juliana\FATEC\Algoritmos\lista-exercicios-C#\exerciciosCSharp\exercicio28\bin\Debug\net5.0\ref\exercicio28.dll
+C:\Users\Juliana\OneDrive\Área de Trabalho\Juliana\FATEC\Algoritmos\lista-exercicios-C#\exerciciosCSharp\exercicio28\bin\Debug\net5.0\exercicio28.pdb
+C:\Users\Juliana\OneDrive\Área de Trabalho\Juliana\FATEC\Algoritmos\lista-exercicios-C#\exerciciosCSharp\exercicio28\obj\Debug\net5.0\exercicio28.csprojAssemblyReference.cache
+C:\Users\Juliana\OneDrive\Área de Trabalho\Juliana\FATEC\Algoritmos\lista-exercicios-C#\exerciciosCSharp\exercicio28\obj\Debug\net5.0\exercicio28.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juliana\OneDrive\Área de Trabalho\Juliana\FATEC\Algoritmos\lista-exercicios-C#\exerciciosCSharp\exercicio28\obj\Debug\net5.0\exercicio28.AssemblyInfoInputs.cache
+C:\Users\Juliana\OneDrive\Área de Trabalho\Juliana\FATEC\Algoritmos\lista-exercicios-C#\exerciciosCSharp\exercicio28\obj\Debug\net5.0\exercicio28.AssemblyInfo.cs
+C:\Users\Juliana\OneDrive\Área de Trabalho\Juliana\FATEC\Algoritmos\lista-exercicios-C#\exerciciosCSharp\exercicio28\obj\Debug\net5.0\exercicio28.csproj.CoreCompileInputs.cache
+C:\Users\Juliana\OneDrive\Área de Trabalho\Juliana\FATEC\Algoritmos\lista-exercicios-C#\exerciciosCSharp\exercicio28\obj\Debug\net5.0\exercicio28.dll
+C:\Users\Juliana\OneDrive\Área de Trabalho\Juliana\FATEC\Algoritmos\lista-exercicios-C#\exerciciosCSharp\exercicio28\obj\Debug\net5.0\ref\exercicio28.dll
+C:\Users\Juliana\OneDrive\Área de Trabalho\Juliana\FATEC\Algoritmos\lista-exercicios-C#\exerciciosCSharp\exercicio28\obj\Debug\net5.0\exercicio28.pdb
+C:\Users\Juliana\OneDrive\Área de Trabalho\Juliana\FATEC\Algoritmos\lista-exercicios-C#\exerciciosCSharp\exercicio28\obj\Debug\net5.0\exercicio28.genruntimeconfig.cache
