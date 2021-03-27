@@ -6,7 +6,7 @@ namespace exercicio31
     {
         static void Main(string[] args)
         {
-            /* 31–Construa  um  algoritmo  para calcular  o  Volume  da  figura  ao  lado  
+            /* 31 – Construa  um  algoritmo  para calcular  o  Volume  da  figura  ao  lado  
             (a  figura  é ilustrativa): Fórmulas: 
             Área do polígono = Lado1 x Lado2
             Área da circunferência = pi x raio²
