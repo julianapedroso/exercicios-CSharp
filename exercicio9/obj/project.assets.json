@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Juliana\\OneDrive\\Área de Trabalho\\Juliana\\FATEC\\Algoritmos\\exercicios\\exercicio9\\exercicio9.csproj",
-      "projectName": "exercicio9",
-      "projectPath": "C:\\Users\\Juliana\\OneDrive\\Área de Trabalho\\Juliana\\FATEC\\Algoritmos\\exercicios\\exercicio9\\exercicio9.csproj",
+      "projectUniqueName": "C:\\Users\\Juliana\\OneDrive\\Área de Trabalho\\Juliana\\FATEC\\Algoritmos\\exercicios\\exercicio17\\exercicio17.csproj",
+      "projectName": "exercicio17",
+      "projectPath": "C:\\Users\\Juliana\\OneDrive\\Área de Trabalho\\Juliana\\FATEC\\Algoritmos\\exercicios\\exercicio17\\exercicio17.csproj",
       "packagesPath": "C:\\Users\\Juliana\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Juliana\\OneDrive\\Área de Trabalho\\Juliana\\FATEC\\Algoritmos\\exercicios\\exercicio9\\obj\\",
+      "outputPath": "C:\\Users\\Juliana\\OneDrive\\Área de Trabalho\\Juliana\\FATEC\\Algoritmos\\exercicios\\exercicio17\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Juliana\\AppData\\Roaming\\NuGet\\NuGet.Config"

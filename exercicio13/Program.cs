@@ -1,24 +1,23 @@
 ﻿using System;
 
-namespace exercicio13
+namespace exercicio24
 {
     class Program
     {
         static void Main(string[] args)
         {
-            /* 13 – Crie um Algoritmo que receba um número e imprima sua raiz quadrada e sua raiz cúbica.
-                SAÍDA:
-                O número digitado foi ...
-                Sua raiz cúbica é ...
-                Sua raiz quadrada é ... */
+             /* 13 - Elabore um algoritmo para calcular o volume e a área de uma esfera(figura meramente ilustrativa). 
+                Área = 4 × 𝜋 × 𝑟²
+                Volume = 4 / 3 × 𝜋 × 𝑟³ */
 
-            Console.WriteLine("Digite um número: ");
-            double valorDigitadoRaiz = double.Parse(Console.ReadLine());
+            Console.WriteLine("Digite um número para o raio da esfera: ");
+            double valorDigitadoRaioEsfera = double.Parse(Console.ReadLine());
 
-            double valorRaizCubica = Math.Cbrt(valorDigitadoRaiz);
-            double valorRaizQuadrada = Math.Sqrt(valorDigitadoRaiz);
-            
-            Console.WriteLine($"O número digitado foi: {valorDigitadoRaiz}, sua raiz cúbica é: {valorRaizCubica} e sua raiz quadrada é: {valorRaizQuadrada}");
+            double raioEsfera = valorDigitadoRaioEsfera;
+            double areaEsfera = 4 * (Math.PI * (Math.Pow(raioEsfera, 2)));
+            double volumeEsfera = 4 * (Math.PI * (Math.Pow(raioEsfera, 3))) / (3);
+
+            Console.WriteLine($"O valor digitado para o raio da esfera foi: {valorDigitadoRaioEsfera}, sua área é: {areaEsfera} e seu volume é: {volumeEsfera}");
 
             Console.ReadLine();
         }

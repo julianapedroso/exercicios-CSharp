@@ -1,19 +1,22 @@
 ﻿using System;
 
-namespace exercicio3
+namespace exercicio8
 {
     class Program
     {
         static void Main(string[] args)
         {
-            /* 03 – Crie um algoritmo que leia dois nomes e imprima os nomes na sequência 
-            em que foram escritos e posteriormente os imprima na ordem inversa. */
+            /* 03 – Elabore um algoritmo que calcule a área e o perímetro de um quadrado.
+                Área = lado²
+                Perímetro = é a soma de todos os lados */
 
-            string primeiroNome = "Caio";
-            string segundoNome = "Amanda";
+            Console.WriteLine("Digite um número para cálculo de área e perímetro de um quadrado: ");
+            double ladoQuadrado = double.Parse(Console.ReadLine());
 
-            Console.WriteLine($"{primeiroNome}, {segundoNome}");
-            Console.WriteLine($"{segundoNome}, {primeiroNome}");
+            double areaQuadrado = Math.Pow(ladoQuadrado, 2);
+            double perimetroQuadrado = ladoQuadrado + ladoQuadrado + ladoQuadrado + ladoQuadrado;
+
+            Console.WriteLine($"A área do quadrado é: {areaQuadrado} e o perímetro do quadrado é: {perimetroQuadrado}");
 
             Console.ReadLine();
         }

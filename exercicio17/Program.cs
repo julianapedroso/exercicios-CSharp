@@ -1,24 +1,25 @@
 ﻿using System;
 
-namespace exercicio17
+namespace exercício29
 {
     class Program
     {
         static void Main(string[] args)
         {
-            /* 17 - Entrar com um número de 3 dígitos e imprimir o número da casa das unidades. Por exemplo:
-                Entrada: 359
-                Saída: 9 */
+            /* 17 - A  importância  de  R$  ******,**  (valor  do  prêmio) será  dividida  
+            entre  três ganhadores de um concurso. Sendo que da quantia total:
+            O primeiro ganhador receberá 46%; 
+            O segundo receberá 32%; 
+            O terceiro receberá o restante. 
+            Calcule e imprima a quantia ganha por cada um dos ganhadores */
 
-            Console.WriteLine("Digite um número de 3 dígitos: ");
-            int numeroTresDigitos = int.Parse(Console.ReadLine());
+            Console.WriteLine("Informe um valor para o prêmio: ");
+            double valorImportancia = double.Parse(Console.ReadLine());
+            double primeiroGanhador = valorImportancia * 46 / 100;
+            double segundoGanhador = valorImportancia * 32 / 100;
+            double terceiroGanhador = valorImportancia * 22 / 100;
 
-            int casaCentena = numeroTresDigitos / 100;
-            int casaDezena = (numeroTresDigitos % 100) / 10;
-            int casaUnidade = ((numeroTresDigitos % 100) % 10);
-            
-            Console.WriteLine($"O número digitado foi: {numeroTresDigitos} e o número da casa das unidades é: {casaUnidade}");
-            
+            Console.WriteLine($"O primeiro ganhador receberá: R$ {primeiroGanhador}, o segundo ganhador: R$ {segundoGanhador} e o terceiro ganhador: R$ {terceiroGanhador}");
             Console.ReadLine();
         }
     }

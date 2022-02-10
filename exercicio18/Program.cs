@@ -1,23 +1,22 @@
 ﻿using System;
 
-namespace exercicio18
+namespace exercicio30
 {
     class Program
     {
         static void Main(string[] args)
         {
-            /* 18 - Entrar com um número de 5 dígitos e imprimir o número da casa das dezenas. Por exemplo:
-                Entrada: 78954
-                Saída: 5 */
+            /* 18 – Ler uma velocidade em km/h (quilômetros por hora) e apresentá-la convertida em
+            m/s (metros por segundo). A fórmula de conversão é: M = K/3.6, sendo K a velocidade
+            em km/h e M em m/s. */
 
-            Console.WriteLine("Digite um número de 5 dígitos: ");
-            int numeroCincoDigitos = int.Parse(Console.ReadLine());
+            Console.WriteLine("Insira um valor para a velocidade: ");
+            double velocidade = double.Parse(Console.ReadLine());
 
-            int casaCentena = numeroCincoDigitos / 100;
-            int casaDezena = (numeroCincoDigitos % 100) / 10;
-            int casaUnidade = ((numeroCincoDigitos % 100) % 10);
-            
-            Console.WriteLine($"O número digitado foi: {numeroCincoDigitos} e o número da casa das unidades é: {casaDezena}");
+            double conversao = velocidade / 3.6;
+            double velocidadeConvertida = conversao;
+
+            Console.WriteLine($"A velocidade {velocidade}km/h convertida para metros por segundo é de: {velocidadeConvertida}m/s");
 
             Console.ReadLine();
         }

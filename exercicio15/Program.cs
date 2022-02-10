@@ -1,33 +1,24 @@
 ﻿using System;
 
-namespace exercicio15
+namespace exercicio2
 {
     class Program
     {
         static void Main(string[] args)
         {
-            /* 15 – Entrar com quatro números e imprimir a média ponderada, sabendo-se que os 
-            pesos são respectivamente 1, 2, 3 e 4. */
+            /* 15 - Faça  um  programa  que  leia  o  valor  da  hora  de  trabalho e  o  número  
+            de  horas trabalhadas no mês, e exiba na tela o valor a ser pago ao funcionário, 
+            adicionando 10% sobre o valor calculado. */
 
-            Console.WriteLine("Digite um valor para a primeira nota: ");
-            double valorDigitadoPrimeiraNota = double.Parse(Console.ReadLine());
+            Console.WriteLine("Insira as horas trabalhadas no mês: ");
+            double horas = double.Parse(Console.ReadLine());
 
-            Console.WriteLine("Digite um valor para a segunda nota: ");
-            double valorDigitadoSegundaNota = double.Parse(Console.ReadLine());
+            Console.WriteLine("Insira o valor a ser pago por hora: ");
+            double valorPago = double.Parse(Console.ReadLine());
+            double valorAdicional = horas * valorPago * 10 / 100;
+            double valorMensal = (horas * valorPago) + (valorAdicional);
 
-            Console.WriteLine("Digite um valor para a terceira nota: ");
-            double valorDigitadoTerceiraNota = double.Parse(Console.ReadLine());
-
-            Console.WriteLine("Digite um valor para a quarta nota: ");
-            double valorDigitadoQuartaNota = double.Parse(Console.ReadLine());
-
-            double valorNota1 = valorDigitadoPrimeiraNota * 1;
-            double valorNota2 = valorDigitadoSegundaNota * 2;
-            double valorNota3 = valorDigitadoTerceiraNota * 3;
-            double valorNota4 = valorDigitadoQuartaNota * 4;
-            double mediaPonderada = (valorNota1 + valorNota2 + valorNota3 + valorNota4) / (10);
-        
-            Console.WriteLine($"O valor da primeira nota é: {valorDigitadoPrimeiraNota}, o da segunda é: {valorDigitadoSegundaNota}, o da terceira é: {valorDigitadoTerceiraNota} e o da quarta é: {valorDigitadoQuartaNota}. Logo, a média ponderada é: {mediaPonderada}");
+            Console.WriteLine($"Foram trabalhadas {horas} horas a um preço de R$ {valorPago}. O pagamento total foi de: R$ {valorMensal}");
 
             Console.ReadLine();
         }

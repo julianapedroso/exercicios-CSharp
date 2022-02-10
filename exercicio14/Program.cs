@@ -1,30 +1,22 @@
 ﻿using System;
 
-namespace exercicio14
+namespace exercicio1
 {
     class Program
     {
         static void Main(string[] args)
         {
-            /* 14 – Entrar com dois números inteiros e imprimir a seguinte saída:
-                Dividendo:
-                Divisor:
-                Quociente:
-                Resto: */
+            /* 14 - Uma empresa contrata um encanador a R$ 130,00 por dia. Crie um programa que solicite  o  número  de  dias  trabalhados  pelo  encanador  e  imprima  a  quantia líquida  que deverá ser paga, sabendo-se que são descontados 8% para imposto de renda.*/
 
-            Console.WriteLine("Digite um número para o dividendo: ");
-            int valorDigitadoDividendo = int.Parse(Console.ReadLine());
+            Console.WriteLine("Informe os dias de trabalho do encanador: ");
+            double diasTrabalho = double.Parse(Console.ReadLine());
 
-            Console.WriteLine("Digite um número para o divisor: ");
-            int valorDigitadoDivisor = int.Parse(Console.ReadLine());
+            double calculoDiaTrabalho = 130 * diasTrabalho;
+            double imposto = calculoDiaTrabalho * 8 / 100;
+            double valorLiquido = calculoDiaTrabalho - imposto;
 
-            int valorDividendo = valorDigitadoDividendo;
-            int valorDivisor = valorDigitadoDivisor;
-            int valorQuociente = valorDigitadoDividendo / valorDigitadoDivisor;
-            int valorResto = valorDigitadoDividendo % valorDigitadoDivisor;
-            
-            Console.WriteLine($"O número dividendo é: {valorDividendo}, o número divisor é: {valorDivisor}, o quociente é: {valorQuociente} e resto é: {valorResto}");
-            
+            Console.WriteLine($"O valor a ser pago pelos {diasTrabalho} dias, é de: R$ {valorLiquido}");
+
             Console.ReadLine();
         }
     }

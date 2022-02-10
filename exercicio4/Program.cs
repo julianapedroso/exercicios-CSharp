@@ -1,26 +1,25 @@
 ﻿using System;
 
-namespace exercicio4
+namespace exercicio9
 {
     class Program
     {
         static void Main(string[] args)
         {
-            /* 04 – Crie um algoritmo que receba duas variáveis do tipo inteiro.
-            Atribuir um valor para cada variável e posteriormente exibir este valor.
-            Para finalizar, exibir a primeira variável acrescida de uma unidade e exibir a 
-            segunda variável decrescida de uma unidade.. */
+            /* 04 – Elabore um algoritmo que calcule a área e o perímetro de um retângulo.
+                Área = b x h
+                Perímetro = é a soma de todos os lados */
 
-            Console.WriteLine("Digite um número: ");
-            int primeiroNumero = int.Parse(Console.ReadLine());
+            Console.WriteLine("Digite um número para a base de um retângulo: ");
+            double baseRetangulo = double.Parse(Console.ReadLine());
 
-            Console.WriteLine("Digite outro número: ");
-            int segundoNumero = int.Parse(Console.ReadLine());
+            Console.WriteLine("Agora digite um número para a altura desse retângulo: ");
+            double alturaRetangulo = double.Parse(Console.ReadLine());
 
-            int numeroAcrescido = primeiroNumero + 1;
-            int numeroDecrescido = segundoNumero - 1;
+            double areaRetangulo = baseRetangulo * alturaRetangulo;
+            double perimetroRetangulo = (baseRetangulo * 2) + (alturaRetangulo * 2);
 
-            Console.WriteLine($"Os números digitados foram: {primeiroNumero} e {segundoNumero}. O primeiro valor +1 é: {numeroAcrescido} e o segundo valor -1 é: {numeroDecrescido}");
+            Console.WriteLine($"A área do retângulo é: {areaRetangulo} e o perímetro do retângulo é: {perimetroRetangulo}");
 
             Console.ReadLine();
         }

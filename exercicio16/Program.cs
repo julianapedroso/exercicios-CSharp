@@ -1,22 +1,22 @@
 ﻿using System;
 
-namespace exercicio16
+namespace exercicio27
 {
     class Program
     {
         static void Main(string[] args)
         {
-            /* 16 - Elabore um algoritmo que entre com valor do raio e calcule a área e o perímetro do círculo correspondente.
-                A fórmula para se calcular a área da circunferência é : A = π ∗ raio²
-                A fórmula para se calcular o perímetro da circunferência é : A = 2 ∗ π ∗ r */
+            /* 16 – Ler uma temperatura em graus Celsius e apresentá-la convertida em graus Kelvin.
+            A fórmula de conversão é: K = C + 273.15, sendo C a temperatura em Celsius e K a
+            temperatura em Kelvin. */
 
-            Console.WriteLine("Digite um valor para o raio: ");
-            double valorDigitadoRaio = double.Parse(Console.ReadLine());
+            Console.WriteLine("Informe um valor para a temperatura em Celsius: ");
+            double temperatura = double.Parse(Console.ReadLine());
 
-            double valorAreaCircunferenicia = Math.PI * Math.Pow(valorDigitadoRaio, 2);
-            double valorPerimetroCincunferencia = 2 * Math.PI * valorDigitadoRaio;
-            
-            Console.WriteLine($"O valor digitado para o raio é: {valorDigitadoRaio}, sua área é: {valorAreaCircunferenicia} e seu perímetro é: {valorPerimetroCincunferencia}");
+            double temperaturaCelsius = 273.15;
+            double temperaturaKelvin = temperatura + temperaturaCelsius;
+
+            Console.WriteLine($"A conversão de {temperatura} em Celsius para Kelvin é: {temperaturaKelvin}K");
 
             Console.ReadLine();
         }

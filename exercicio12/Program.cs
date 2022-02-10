@@ -1,25 +1,28 @@
 ﻿using System;
 
-namespace exercicio12
+namespace exercicio22
 {
     class Program
     {
         static void Main(string[] args)
         {
+            /* 12 - Crie um algoritmo que possa calcular a área de uma coroa de forma circular (figura meramente ilustrativa).
+                Área circunferência = π x r²
+                Área coroa circular = (Área da circunferência maior) – (Área da circunferência menor) */
+
+            Console.WriteLine("Digite um número para o raio maior da coroa circular: ");
+            double valorDigitadoCoronaMaior = double.Parse(Console.ReadLine());
             
-            /* 12 – Crie um Algoritmo que receba um número e imprima seu valor elevado a 2, elevado a 3, elevado a 4 e elevado a 5.
-               SAÍDA:
-               O número digitado foi ... E seu valor elevado a 2 é ..., elevado a 3 é ..., ... */
+            Console.WriteLine("Agora, digite um número para o raio menor dessa coroa circular: ");
+            double valorDigitadoCoronaMenor = double.Parse(Console.ReadLine());
 
-            Console.WriteLine("Digite um número: ");
-            double numeroPotencia = double.Parse(Console.ReadLine());
+            double raioMaior = valorDigitadoCoronaMaior;
+            double areaCoroaMaior = Math.PI * Math.Pow(raioMaior, 2);
+            double raioMenor = valorDigitadoCoronaMenor;
+            double areaCoroaMenor = Math.PI * Math.Pow(raioMenor, 2);
+            double areaCoroaCircular = areaCoroaMaior - areaCoroaMenor;
 
-            double numeroQuadrado = Math.Pow(numeroPotencia, 2);
-            double numeroCubo = Math.Pow(numeroPotencia, 3);
-            double numeroQuarta = Math.Pow(numeroPotencia, 4);
-            double numeroQuinta = Math.Pow(numeroPotencia, 5);
-
-            Console.WriteLine($"O número digitado foi: {numeroPotencia}, seu valor elevado a 2 é: {numeroQuadrado}, elevado a 3 é: {numeroCubo}, elevado a 4 é: {numeroQuarta} e elevado a 5 é: {numeroQuinta}");
+            Console.WriteLine($"O valor digitado para o raio da coroa maior foi: {valorDigitadoCoronaMaior}, para o da coroa menor foi: {valorDigitadoCoronaMenor}. Sua área é: {areaCoroaCircular}");
 
             Console.ReadLine();
         }

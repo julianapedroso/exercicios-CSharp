@@ -1,20 +1,22 @@
 ﻿using System;
 
-namespace lista_de_exercicios
+namespace exercicio7
 {
     class Program
     {
         static void Main(string[] args)
         {
-            /* 02 – Elabore um algoritmo que imprima a frase da maneira descrita abaixo, uma frase
-            abaixo da outra:
-                Aprendendo Algoritmo
-                e Fazendo muito Exercício
-                Primeiro fazendo exercício em ‘C#’ */
+            /* 02 – Ler um número inteiro e imprimir seu antecessor e seu sucessor.
+                SAÍDA:
+                O número digitado foi ..., seu antecessor é ... e seu sucessor é ... */
 
-            Console.WriteLine("Aprendendo Algoritmo");
-            Console.WriteLine("e Fazendo muito Exercício");
-            Console.WriteLine("Primeiro fazendo exercício em ‘C#’");
+            Console.WriteLine("Digite um número: ");
+            int numeroDigitado = int.Parse(Console.ReadLine());
+
+            int numeroAntecessor = numeroDigitado - 1;
+            int numeroSucessor = numeroDigitado + 1;
+
+            Console.WriteLine($"O número digitado foi: {numeroDigitado}, seu antecessor é: {numeroAntecessor} e seu número sucessor é: {numeroSucessor}");
 
             Console.ReadLine();
         }

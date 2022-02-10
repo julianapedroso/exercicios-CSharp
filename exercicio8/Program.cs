@@ -1,22 +1,22 @@
 ﻿using System;
 
-namespace exercicio8
+namespace exercicio16
 {
     class Program
     {
         static void Main(string[] args)
         {
-            /* 08 – Elabore um algoritmo que calcule a área e o perímetro de um quadrado.
-                Área = lado²
-                Perímetro = é a soma de todos os lados */
+            /* 08 - Elabore um algoritmo que entre com valor do raio e calcule a área e o perímetro do círculo correspondente.
+                A fórmula para se calcular a área da circunferência é : A = π ∗ raio²
+                A fórmula para se calcular o perímetro da circunferência é : A = 2 ∗ π ∗ r */
 
-            Console.WriteLine("Digite um número para cálculo de área e perímetro de um quadrado: ");
-            double ladoQuadrado = double.Parse(Console.ReadLine());
+            Console.WriteLine("Digite um valor para o raio: ");
+            double valorDigitadoRaio = double.Parse(Console.ReadLine());
 
-            double areaQuadrado = Math.Pow(ladoQuadrado, 2);
-            double perimetroQuadrado = ladoQuadrado + ladoQuadrado + ladoQuadrado + ladoQuadrado;
-
-            Console.WriteLine($"A área do quadrado é: {areaQuadrado} e o perímetro do quadrado é: {perimetroQuadrado}");
+            double valorAreaCircunferenicia = Math.PI * Math.Pow(valorDigitadoRaio, 2);
+            double valorPerimetroCincunferencia = 2 * Math.PI * valorDigitadoRaio;
+            
+            Console.WriteLine($"O valor digitado para o raio é: {valorDigitadoRaio}, sua área é: {valorAreaCircunferenicia} e seu perímetro é: {valorPerimetroCincunferencia}");
 
             Console.ReadLine();
         }

@@ -1,26 +1,23 @@
 ﻿using System;
 
-namespace exercicio10
+namespace exercicio18
 {
     class Program
     {
         static void Main(string[] args)
         {
-            /* 10 – Elabore um algoritmo que calcule a área da superfície de um paralelepípedo 
-                Área: 2*(ab + bc + ac) */
+            /* 10 - Entrar com um número de 5 dígitos e imprimir o número da casa das dezenas. Por exemplo:
+                Entrada: 78954
+                Saída: 5 */
 
-            Console.WriteLine("Digite um número para o comprimento de um paralelepípedo: ");
-            double comprimentoParalelepipedo = double.Parse(Console.ReadLine());
+            Console.WriteLine("Digite um número de 5 dígitos: ");
+            int numeroCincoDigitos = int.Parse(Console.ReadLine());
 
-            Console.WriteLine("Agora, digite um número para a largura desse paralelepípedo: ");
-            double larguraParalelepipedo = double.Parse(Console.ReadLine());
-
-            Console.WriteLine("Por fim, digite um número para a altura desse paralelepípedo: ");
-            double alturaParalelepipedo = double.Parse(Console.ReadLine());
-
-            double areaParalelepipedo = 2 * (comprimentoParalelepipedo * larguraParalelepipedo + larguraParalelepipedo * alturaParalelepipedo + comprimentoParalelepipedo * alturaParalelepipedo);
-
-            Console.WriteLine($"A área do paralelepípedo é: {areaParalelepipedo}");
+            int casaCentena = numeroCincoDigitos / 100;
+            int casaDezena = (numeroCincoDigitos % 100) / 10;
+            int casaUnidade = ((numeroCincoDigitos % 100) % 10);
+            
+            Console.WriteLine($"O número digitado foi: {numeroCincoDigitos} e o número da casa das unidades é: {casaDezena}");
 
             Console.ReadLine();
         }

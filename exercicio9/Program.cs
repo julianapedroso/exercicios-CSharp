@@ -1,26 +1,24 @@
 ﻿using System;
 
-namespace exercicio9
+namespace exercicio17
 {
     class Program
     {
         static void Main(string[] args)
         {
-            /* 09 – Elabore um algoritmo que calcule a área e o perímetro de um retângulo.
-                Área = b x h
-                Perímetro = é a soma de todos os lados */
+            /* 09 - Entrar com um número de 3 dígitos e imprimir o número da casa das unidades. Por exemplo:
+                Entrada: 359
+                Saída: 9 */
 
-            Console.WriteLine("Digite um número para a base de um retângulo: ");
-            double baseRetangulo = double.Parse(Console.ReadLine());
+            Console.WriteLine("Digite um número de 3 dígitos: ");
+            int numeroTresDigitos = int.Parse(Console.ReadLine());
 
-            Console.WriteLine("Agora digite um número para a altura desse retângulo: ");
-            double alturaRetangulo = double.Parse(Console.ReadLine());
-
-            double areaRetangulo = baseRetangulo * alturaRetangulo;
-            double perimetroRetangulo = (baseRetangulo * 2) + (alturaRetangulo * 2);
-
-            Console.WriteLine($"A área do retângulo é: {areaRetangulo} e o perímetro do retângulo é: {perimetroRetangulo}");
-
+            int casaCentena = numeroTresDigitos / 100;
+            int casaDezena = (numeroTresDigitos % 100) / 10;
+            int casaUnidade = ((numeroTresDigitos % 100) % 10);
+            
+            Console.WriteLine($"O número digitado foi: {numeroTresDigitos} e o número da casa das unidades é: {casaUnidade}");
+            
             Console.ReadLine();
         }
     }
